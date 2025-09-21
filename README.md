@@ -36,7 +36,7 @@ I'm a **full stack developer in the making** with a passion for creating product
 
 ## 👾 Fun Fact
 
-Before coding, I was a pro League of Legends player living in France with my team—an experience that taught me a lot about collaboration and perseverance.
+Before coding, I was a pro League of Legends player living in France with my team - an experience that taught me a lot about collaboration and perseverance.
 
 ---
 
